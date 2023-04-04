@@ -1,7 +1,7 @@
 # Web Automation in Cypress
 ### This is a complete project where a Demo site  is automated by writing test suites using Cypress as testing framework.
 
-## Scenerio
+## Steps
 1. Visit https://katalon-demo-cura.herokuapp.com/
 2. Login
 3. Make an appointment

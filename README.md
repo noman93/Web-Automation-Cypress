@@ -23,6 +23,7 @@
 ## How to run this project
 - clone this project
 - hit the following command into the terminal:
+   - npm init -y
    - npx cypress run  ( For headless testing )
    - npx cypress open
    
